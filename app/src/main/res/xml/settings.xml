@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/title_appearance" >
+
+        <ListPreference
+            android:key="bg_color"
+            android:entries="@array/bg_color"
+            android:summary="@string/settings_bg_color_summary"
+            android:entryValues="@array/bg_color_values"
+            android:title="@string/settings_bg_color" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

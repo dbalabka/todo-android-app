@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_bg_color">#E6E6E6</string>
+    <string-array name="bg_color">
+        <item name="grey">Grey</item>
+        <item name="blue">Blue</item>
+        <item name="purple">Purple</item>
+        <item name="green">Green</item>
+        <item name="orange">Orange</item>
+        <item name="red">Red</item>
+    </string-array>
+    <string-array name="bg_color_values">
+        <item name="grey">#E6E6E6</item>
+        <item name="blue">#33B5E5</item>
+        <item name="purple">#AA66CC</item>
+        <item name="green">#99CC00</item>
+        <item name="orange">#FFBB33</item>
+        <item name="red">#FF4444</item>
+    </string-array>
+</resources>
